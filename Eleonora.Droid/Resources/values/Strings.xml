@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ApplicationName">Eleonora</string>
+    <string name="rest_endpoint">http://169.57.35.130/doginder/api/</string>
+    <string name="facebook_app_id">1868043896748510</string>
+</resources>
